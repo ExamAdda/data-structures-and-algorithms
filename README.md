@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Roadmap
+# Master DSA from Beginner to Advanced – Crack FAANG Coding Interviews
 
 > A structured, open-source path from programming fundamentals to advanced DSA, with explanations, patterns, tested solutions and interview preparation.
 
