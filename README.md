@@ -6,18 +6,22 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+## Quick Navigation
+
+[Roadmap](ROADMAP.md) • [Interview Prep](INTERVIEWS.md) • [Contributing](CONTRIBUTING.md) • [License](LICENSE)
+
 ## 🧭 Choose Your DSA Learning Path
 
 Select the path that matches your current goal. If you are just getting started, begin with the **Complete DSA Roadmap** and progress step by step.
 
 | Learning Path | What You’ll Achieve | Best For | Explore |
 |---|---|---|---|
-|**DSA Roadmap** | Learn every topic in the correct order, from fundamentals to advanced DSA | Beginners and structured learners | [Follow the Roadmap](#dsa-learning-flow) |
-|**Topic-Wise Learning** | Understand individual concepts and strengthen them through curated practice | Building strong conceptual foundations | [Browse Topics](#dsa-topics) |
-|**Pattern-Wise Practice** | Master reusable techniques such as sliding window, two pointers and binary search | Recognizing solutions faster | [Learn Patterns](./patterns/README.md) |
-|**Interview Preparation** | Revise essential concepts and practise frequently asked interview problems | Placements and technical interviews | [Practice Questions](./interview-questions/README.md) |
+|**DSA Roadmap** | Learn every topic in the correct order, from fundamentals to advanced DSA | Beginners and structured learners | [Follow the Roadmap](ROADMAP.md) |
+|**Topic-Wise Learning** | Understand individual concepts and strengthen them through curated practice | Building strong conceptual foundations | [Browse Topics](#complete-dsa-topic-list) |
+|**Pattern-Wise Practice** | Master reusable techniques such as sliding window, two pointers and binary search | Recognizing solutions faster | [Learn Patterns](#pattern-wise-dsa-practice) |
+|**Interview Preparation** | Revise essential concepts and practise frequently asked interview problems | Placements and technical interviews | [Open Interview Guide](INTERVIEWS.md) |
 |**Company-Wise Practice** | Solve problems commonly associated with specific technology companies | Targeting FAANG and product-based companies | [Browse Companies](https://tech.examadda.org/practice/dsa-company-wise) |
-|**Quick Revision** | Review important concepts, patterns and complexity rules before an interview | Last-minute interview preparation | [Start Revising](./revision/README.md) |
+|**Quick Revision** | Review important concepts, patterns and complexity rules before an interview | Last-minute interview preparation | [Start Revising](#rapid-revision-problems) |
 |**Coding Challenges** | Test your problem-solving skills with mixed and time-bound problem sets | Improving speed, accuracy and confidence | [Take a Challenge](https://www.codechef.com/) |
 
 > **Recommended path:** Roadmap → Topic-Wise Learning → Pattern-Wise Practice → Interview Preparation → Company-Wise Practice
@@ -156,6 +160,8 @@ Strengthen your problem-solving skills with carefully selected questions, detail
 | 09 | [Longest Subarray with Sum K](./longest-subarray-with-sum-k.md) | Prefix Sum + Hash Map | 🟡 Medium | Amazon, Microsoft, Adobe | [Read](./longest-subarray-with-sum-k.md) | [View Code](./longest-subarray-with-sum-k.md#solution) | [Watch Video](VIDEO_URL) | [Solve Now](PRACTICE_URL) |
 | 10 | [Count Subarrays with Given XOR](./count-subarrays-with-given-xor.md) | Prefix XOR + Hash Map | 🟡 Medium | Amazon, Google, Microsoft | [Read](./count-subarrays-with-given-xor.md) | [View Code](./count-subarrays-with-given-xor.md#solution) | [Watch Video](VIDEO_URL) | [Solve Now](PRACTICE_URL) |
 
+
+<a id="pattern-wise-dsa-practice"></a>
 
 ## 🧩 Pattern-Wise DSA Practice
 
@@ -375,6 +381,8 @@ Test your knowledge, identify weak areas, and revise important DSA concepts befo
 | 20 | [Complete DSA Assessment](./quizzes/complete-dsa-assessment.md) | Mixed topic and interview revision | 🔴 Advanced | 50 MCQs | [Quick Revision](./revision/README.md) | [Start Assessment](QUIZ_URL) |
 
 ---
+
+<a id="rapid-revision-problems"></a>
 
 ### 🎯 Rapid Revision Problems
 

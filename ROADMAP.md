@@ -1,5 +1,7 @@
 # DSA Roadmap: Beginner to Advanced
 
+[Home](README.md) • [Interview Prep](INTERVIEWS.md) • [Contributing](CONTRIBUTING.md) • [License](LICENSE)
+
 Use this roadmap as an ordered syllabus. Progress only after you can explain the current topic and solve representative problems without copying a solution.
 
 ## Phase 1 — Foundations
@@ -91,3 +93,7 @@ Use this roadmap as an ordered syllabus. Progress only after you can explain the
 | Revisit old problems | 5–8 |
 | Timed interview session | 1–2 |
 | Write or improve notes | 1 session |
+
+## Next Step
+
+After finishing the roadmap once, move to the [interview preparation guide](INTERVIEWS.md) for revision strategy, mock interview practice, and final readiness checks.
